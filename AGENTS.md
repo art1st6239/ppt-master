@@ -87,3 +87,16 @@ For Generate PPTX serial post-processing and export, follow [`generate-pptx.md`]
 - `docs/` — user-facing documentation (FAQ, installation, technical design, templates guide, audio narration).
 - `docs/rules/` — repo-wide style rules.
 - `projects/` — user project workspace.
+
+## 用户偏好：PPT 交付
+
+- 生成 PPT 后，默认导出可编辑的 .pptx。
+- 通过现有 Sites 私密站点提供下载。
+- 复用站点，不固定 PPT 或下载页的设计模板。
+- 保持站点的私密访问权限。
+- 发布成功后提供下载链接；失败时说明具体原因。
+- 不将仅提供云端文件路径视为交付完成。
+
+现有站点项目 ID：`appgprj_6ae19e4c71fc819199c8f91b3280d3ea`
+
+现有站点地址：https://group-meeting-ppt-download-1028.sassyhen22.chatgpt.site
